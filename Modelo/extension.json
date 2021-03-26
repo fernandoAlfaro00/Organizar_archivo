@@ -1,0 +1,37 @@
+[
+  {
+    "category_file": "imagen",
+    "file_format": ["jpg", "jpeg", "bmp", "png"],
+    "folder": "Imagenes"
+  },
+  {
+    "category_file": "texto",
+    "file_format": ["pdf", "docx", "odt", "txt" , "html" , "xlsx"  ],
+    "folder": "Documentos"
+  },
+  {
+    "category_file": "videos",
+    "file_format": ["mp4", "avi", "mkv"],
+    "folder": "Videos"
+  },
+  {
+    "category_file": "comprimidos",
+    "file_format": ["zip", "rar" , "tar.*"],
+    "folder": "Comprimidos"
+  },
+  {
+    "category_file": "paquetes",
+    "file_format": ["rpm"],
+    "folder": "paquetes"
+  },
+  {
+    "category_file": "imagenes",
+    "file_format": ["iso", "bin"],
+    "folder": "paquetes"
+  },
+  {
+    "category_file": "ejecutables",
+    "file_format": ["exe", "msi" , "run"],
+    "folder": "paquetes"
+  }
+]

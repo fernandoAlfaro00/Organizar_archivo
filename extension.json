@@ -1,0 +1,30 @@
+{
+  "image": {
+    "file_format": ["jpg", "jpeg", "bmp", "png"],
+    "folder": "Imagenes"
+  },
+  "text": {
+    "file_format": ["pdf", "docx", "odt", "txt", "html", "xlsx"],
+    "folder": "Documentos"
+  },
+  "video": {
+    "file_format": ["mp4", "avi", "mkv"],
+    "folder": "Videos"
+  },
+  "compress": {
+    "file_format": ["zip", "rar", "tar.*"],
+    "folder": "Comprimidos"
+  },
+  "package": {
+    "file_format": ["rpm"],
+    "folder": "paquetes"
+  },
+  "virtual_image": {
+    "file_format": ["iso", "bin"],
+    "folder": "paquetes"
+  },
+  "execute": {
+    "file_format": ["exe", "msi", "run"],
+    "folder": "paquetes"
+  }
+}
